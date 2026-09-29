@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# supabase
+IPL Ticket Booking is a modern React web application built with Vite and React Router. It features a multi-page interface that allows users to browse upcoming IPL matches, select specific venues and stands, book tickets, and view their booking history securely integrated with a Supabase backend database.
+>>>>>>> 351cb30a2cddd852e564f02acd48673177c1838d
